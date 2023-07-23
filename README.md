@@ -111,5 +111,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/DEVAlienBot-quotes.svg" width="1246" height="290" alt="trungquandev-official" />
+  <img src="svg/DEVAlienBot-quotes.svg" width="1246" height="100" alt="trungquandev-official" />
 </a>
