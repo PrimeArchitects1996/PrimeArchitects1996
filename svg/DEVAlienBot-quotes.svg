@@ -24,6 +24,8 @@
         }
         .DEVAlienBot-signature {
           font-size: 27px;
+	  font-style: italic;
+	  font-weight: bold;
         }
 			</style>
 
