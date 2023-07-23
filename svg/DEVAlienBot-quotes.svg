@@ -17,13 +17,13 @@
           line-height: 1.6;
 				}
         .quotes-eng {
-          font-size: 22px;
+          font-size: 25px;
         }
         .quotes-vi {
-          font-size: 22px;
+          font-size: 25px;
         }
         .DEVAlienBot-signature {
-          font-size: 19px;
+          font-size: 23px;
         }
 			</style>
 
