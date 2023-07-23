@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 1246 150" width="1246" height="100" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="150%" height="150%">
+	<foreignObject width="100%" height="150%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				.container {
@@ -9,7 +9,7 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 150%;
+					width: 100%;
 					height: 150px;
           background-color: #20232A;
 					border-radius: 10px;
