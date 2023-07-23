@@ -90,7 +90,7 @@
 <h2 align="center">📖 WEB5DEV - Youtube channel about programming 📖</h2>
 <!-- <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
+  <a href="" target="_blank">
     <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
   </a>
 </p> -->
@@ -106,9 +106,6 @@
   <strong>📧 Hoặc Email: <a href="mailto:vovanloc2018@gmail.com" target="_top">vovanloc2018@gmail.com</a></strong>
 </p>
 
-<!-- <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
