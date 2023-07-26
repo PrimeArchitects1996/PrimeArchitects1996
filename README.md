@@ -101,7 +101,7 @@
   <br>
   <!-- <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/vovanloc2018" target="_blank">https://www.facebook.com/vovanloc2018</a></strong> -->
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:vovanloc2018@gmail.com" target="_top">vovanloc2018@gmail.com</a></strong>
+  <strong>📧 Email: <a href="mailto:vovanloc2018@gmail.com" target="_top">vovanloc2018@gmail.com</a></strong>
 </p>
 
 
