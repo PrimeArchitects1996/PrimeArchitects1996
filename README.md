@@ -1,6 +1,6 @@
 <!-- DEVAlienBot -->
 <a href="#" target="_blank">
-  <img src="svg/DEVAlienBot.svg" width="1200" alt="DEVAlienBot-official" />
+  <img src="svg/DEVAlienBot.svg" width="1200" alt="Max Anderson - official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
